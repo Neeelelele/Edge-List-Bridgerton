@@ -1,1 +1,14 @@
-# Edge-List-Bridgerton
+from,to,weight
+Kate,Anthony,3
+Anthony,Kate,3
+Kate,Edwina,3
+Danbury,Edwina,2
+Danbury,Kate,1
+Danbury,Anthony,1
+Danbury,Violet,2
+Violet,Anthony,2
+Anthony,Eloise,2
+Eloise,Penelope,3
+Penelope,Philippa,1
+Penelope,Prudence,1
+Philipa,Prudence,2
